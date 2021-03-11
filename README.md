@@ -1,0 +1,2 @@
+# Duels
+Minecraft Duels Plugin
